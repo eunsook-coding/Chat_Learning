@@ -7,5 +7,6 @@
   - 서울대 딥러닝 강의 Deep Learning on Dialogue Systems (video) https://www.youtube.com/watch?v=HLPfmnQDCzw&index=8&list=PLzWH6Ydh35ggVGbBh48TNs635gv2nxkFI (서기호)
   - Python Korea News Jam - for data collection (slide) http://www.slideshare.net/koorukuroo/20160813-pycon2016apac (서기호)
   - Github Awesome Datasets (github) https://github.com/caesar0301/awesome-public-datasets#natural-language (서기호)
+  - Stanford BeautifulSoup Tutorial (python) http://web.stanford.edu/~zlotnick/TextAsData/Web_Scraping_with_Beautiful_Soup.html (서기호)
   
   
