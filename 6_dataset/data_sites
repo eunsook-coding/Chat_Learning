@@ -38,6 +38,9 @@ Google Datasets
 Collection of Cornell Datasets
 16. https://github.com/rkadlec/ubuntu-ranking-dataset-creator
 Ubuntu Dialogue Datasets
+17. http://ebiquity.umbc.edu/resource/html/id/351
+The UMBC webBase corpus (http://ebiq.org/r/351) is a dataset containing a collection of English paragraphs with over three billion words 
+processed from the February 2007 crawl from the Stanford WebBase project (http://bit.ly/WebBase). Compressed, it is about 13GB in size.
 
 
 
