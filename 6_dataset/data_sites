@@ -28,7 +28,9 @@ Common Crawl offers the largest, most comprehensive, open repository of web craw
 The full dataset of 36 million links can be downloaded as a torrent. 
 The download is a tarball containing 4 tab-delimited files. 
 The data is 1.1 GB when compressed and 5.4 GB when extracted.
-12. 
+12. https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
+This corpus contains a large metadata-rich collection of fictional conversations extracted from raw movie scripts:
+
 
 
 Movie Subtitles Datasets (BE AWARE OF COPYRIGHTS!!!)
