@@ -11,4 +11,5 @@
   
   
 2017년 1월 4일 수요일
-  - Glove Source on Python http://www.foldl.me/2014/glove-python/
+  - Glove Source on Python Reference http://www.foldl.me/2014/glove-python/
+  - Source https://github.com/hans/glove.py
