@@ -10,5 +10,5 @@
   - Stanford BeautifulSoup Tutorial (python) http://web.stanford.edu/~zlotnick/TextAsData/Web_Scraping_with_Beautiful_Soup.html (서기호)
   
   
-2017년 1월 4일 
+2017년 1월 4일 수요일
   - Glove Source on Python http://www.foldl.me/2014/glove-python/
