@@ -1,5 +1,9 @@
 # Chat_Learning
 
+- NLP_Study Directory 
+- 이름 규칙 : (날짜)_(발표주제)_(발표자)
+ex) 20170913_Oxford-10강-TTS_강은숙
+
 미시Gan NLP PPT LINK
 https://drive.google.com/open?id=0Bx984wTo1QhfVWhIR1R0MWFfZ2M
 
